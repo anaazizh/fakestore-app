@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  min-width: 320px;
+  background-color: #f8f9fa;
+}
+
+.product-card-image {
+  height: 220px;
+  width: 100%;
+  object-fit: contain;
+  background-color: #fff;
+  padding: 1rem;
+}
+
+.product-details-image {
+  height: 400px;
+  width: 100%;
+  object-fit: contain;
+  background-color: #fff;
+  padding: 1rem;
+}
